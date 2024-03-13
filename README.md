@@ -8,6 +8,6 @@ alternativas interesantes para ser programadas por su relativa simplicidad.
 
 </p>
 
-### Metodo Gauss Seidel
+### Ejemplo java
 
 `Ejemplo1` : <https://github.com/GABOHDEZ2001/MetodoGaussSeidels/blob/main/MetodoGaussSeidel/GaussSeidel.java>
