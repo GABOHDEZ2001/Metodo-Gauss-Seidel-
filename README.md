@@ -11,3 +11,4 @@ alternativas interesantes para ser programadas por su relativa simplicidad.
 ### Ejemplo java
 
 `Ejemplo1` : <https://github.com/GABOHDEZ2001/MetodoGaussSeidels/blob/main/MetodoGaussSeidel/GaussSeidel.java>
+[Ejemplo 1](https://github.com/GABOHDEZ2001/MetodoGaussSeidels/blob/main/MetodoGaussSeidel/GaussSeidel.java)
